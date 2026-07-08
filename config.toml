@@ -1,0 +1,13 @@
+[theme]
+# Australia Post CPI Calculator — default light theme.
+# Native Streamlit widgets follow this base; the in-app Appearance toggle
+# reskins the custom components (and dropdowns/tables) for dark on demand.
+base = "light"
+primaryColor = "#C8102E"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F9FAFB"
+textColor = "#111827"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
