@@ -6,6 +6,7 @@ Base period: September 2025 = 100.00
 Data fetched live from ABS website — no manual uploads required.
 """
 
+
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
